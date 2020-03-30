@@ -1,0 +1,10 @@
+---
+packages:
+  - vim
+  - telnet
+  - tcpdump
+  - dos2unix
+  - net-tools
+  - yum-utils
+  - epel-release
+  - policycoreutils-python
