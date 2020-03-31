@@ -6,5 +6,6 @@ packages:
   - dos2unix
   - net-tools
   - yum-utils
+  - httpd-tools
   - epel-release
   - policycoreutils-python
