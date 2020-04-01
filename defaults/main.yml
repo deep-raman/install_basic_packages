@@ -1,6 +1,7 @@
 ---
 packages:
   - vim
+  - nmap
   - telnet
   - tcpdump
   - dos2unix
