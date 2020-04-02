@@ -1,6 +1,7 @@
 ---
 packages:
   - vim
+  - htop
   - nmap
   - telnet
   - tcpdump
@@ -9,4 +10,5 @@ packages:
   - yum-utils
   - httpd-tools
   - epel-release
+  - python-passlib
   - policycoreutils-python
