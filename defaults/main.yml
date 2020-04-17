@@ -3,6 +3,7 @@ packages:
   - vim
   - htop
   - nmap
+  - wget
   - telnet
   - tcpdump
   - dos2unix
