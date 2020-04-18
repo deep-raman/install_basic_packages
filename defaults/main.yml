@@ -4,6 +4,7 @@ packages:
   - htop
   - nmap
   - wget
+  - rsync
   - telnet
   - tcpdump
   - dos2unix
